@@ -19,13 +19,13 @@
             "cast_id": 96
         },
         "cast_7": {
-            "cast_id": 0
+            "cast_id": 1
         },
         "cast_8": {
-            "cast_id": 0
+            "cast_id": 2
         },
         "cast_9": {
-            "cast_id": 0
+            "cast_id": 3
         },
         "cast_10": {
             "cast_id": 0
@@ -38,3 +38,4 @@
         }
     }
 }
+
